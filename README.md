@@ -1,6 +1,4 @@
-# CodeAlpha_BasicNetworkSniffer
-
-Basic Network Sniffer
+CodeAlpha - Basic Network Sniffer
 
 Project Overview
 
@@ -31,9 +29,7 @@ Supported Protocols
 
 Installation
 
-Install Python and Scapy.
-
-Run this command:
+Install Scapy using:
 
 pip install scapy
 
@@ -83,6 +79,8 @@ This project provided practical experience in Python programming and basic netwo
 Ethical Use
 
 This tool should only be used on personal networks or networks where permission has been granted.
+
+⸻
 
 Internship: CodeAlpha
 Domain: Cyber Security
