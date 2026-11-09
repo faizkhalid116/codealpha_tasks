@@ -14,7 +14,7 @@ This repository contains my cybersecurity internship tasks and projects.
 A Python-based tool that captures and analyzes network packets.
 
 - **Technologies:** Python, Scapy, Npcap
-- **Project:** [View Task 1](./sniffer.py)
+- **Project:** [View Task 1](./Task1_Basic_Network_Sniffer/)
 
 ### Task 2 – Phishing Awareness Training
 An interactive website that teaches users how to identify and avoid phishing attacks.
